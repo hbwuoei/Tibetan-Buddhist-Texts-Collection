@@ -34,15 +34,19 @@ Nyingma Kama (སྔ་འགྱུར་བཀའ་མ།)
 · Contains teachings transmitted orally from master to disciple
 · Source: Digitized from Nitartha International resources
 
+Nyingma Gyübum (རྙིང་མ་རྒྱུད་འབུམ།)
+
+· The Collected Tantras of the Nyingma School
+· Comprehensive collection of Nyingma tantric texts
+· Source: Digitized from Nitartha International resources
+
 Source Attribution
 
 All texts in this repository are digitized versions originally published and distributed by Nitartha International. This repository serves as a digital archive and research resource based on their publications.
 
 File Formats
 
-· 📄 PDF scans
 · 📝 TXT files (Tibetan Unicode)
-· 🖼️ Image files
 
 Usage
 
