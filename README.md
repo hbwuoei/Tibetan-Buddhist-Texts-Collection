@@ -1,20 +1,22 @@
 # Tibetan Buddhist Texts Collection
 
 <p align="center">
-<a href="https://github.com/hbwuoei/tibetan-buddhist-texts">
-<img src="https://img.shields.io/badge/Repo%20Size-Processing...-blue" alt="Repository Size" />
+<a href="https://github.com/hbwuoei/Tibetan-Buddhist-Texts-Collection">
+<img src="https://img.shields.io/badge/📚-Tibetan%20Buddhism-blue" alt="Tibetan Buddhism" />
 </a>
-<a href="https://github.com/hbwuoei/tibetan-buddhist-texts">
-<img src="https://img.shields.io/badge/Downloads-0-lightgrey" alt="Downloads" />
+<a href="https://github.com/hbwuoei/Tibetan-Buddhist-Texts-Collection">
+<img src="https://img.shields.io/badge/🏛️-Nyingma%20Tradition-orange" alt="Nyingma Tradition" />
 </a>
-<a href="https://github.com/hbwuoei/tibetan-buddhist-texts">
+<a href="https://github.com/hbwuoei/Tibetan-Buddhist-Texts-Collection">
 <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green" alt="License" />
 </a>
-<a href="https://github.com/hbwuoei/tibetan-buddhist-texts">
+<a href="https://github.com/hbwuoei/Tibetan-Buddhist-Texts-Collection">
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status" />
 </a>
+<a href="https://github.com/hbwuoei/Tibetan-Buddhist-Texts-Collection">
+<img src="https://img.shields.io/badge/📖-Religious%20Texts-purple" alt="Religious Texts" />
+</a>
 </p>
-
 ## Overview
 
 This repository contains important Tibetan Buddhist texts from the Nyingma (སྔ་འགྱུར།) tradition:
