@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/📖-Religious%20Texts-purple" alt="Religious Texts" />
 </a>
 </p>
+
 ## Overview
 
 This repository contains important Tibetan Buddhist texts from the Nyingma (སྔ་འགྱུར།) tradition:
