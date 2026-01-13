@@ -12,9 +12,8 @@
 </a>
 <a href="https://github.com/hbwuoei/Tibetan-Buddhist-Texts-Collection">
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status" />
-</a>
-<a href="https://github.com/hbwuoei/Tibetan-Buddhist-Texts-Collection">
-<img src="https://img.shields.io/badge/📖-Religious%20Texts-purple" alt="Religious Texts" />
+<a href="https://github.com/hbwuoei/Tibetan-Buddhist-Texts-Collection/releases">
+<img src="https://img.shields.io/github/v/release/hbwuoei/Tibetan-Buddhist-Texts-Collection" alt="Latest Release" />
 </a>
 </p>
 
